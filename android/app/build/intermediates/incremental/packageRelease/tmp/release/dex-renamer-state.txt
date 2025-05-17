@@ -1,0 +1,4 @@
+#Mon Apr 21 20:17:52 IST 2025
+base.0=/Users/vikrantsaini/Documents/AppDev/hostelmess1/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
